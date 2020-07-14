@@ -1,5 +1,5 @@
 ### Hello 👋
-I am an indie game devloper who loves programming!<br>
+I am an indie game developer who loves programming!<br>
 
 ### My Socials ✔️
 <a href="https://www.youtube.com/channel/UC0k5Wnt4vdbbb7ht_74I-Dg"><img src="https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png" width="24px" height="24px" /></a>
