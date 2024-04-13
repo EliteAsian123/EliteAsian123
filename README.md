@@ -9,10 +9,10 @@
 	<a href="https://github.com/EliteAsian123">
 		<img src="https://github.githubassets.com/pinned-octocat.svg" height="32px" width="32px" alt="Github">
 	</a>
-	<br/>
+<!-- 	<br/>
 	<br/>
 	<a href="https://ko-fi.com/C0C4T2VXB">
 		<img src="https://ko-fi.com/img/githubbutton_sm.svg" width="175px" alt="Ko-fi">
-	</a>
+	</a> -->
 <div>
 <br/>
