@@ -9,6 +9,9 @@
 	<a href="https://github.com/EliteAsian123">
 		<img src="https://github.githubassets.com/pinned-octocat.svg" height="32px" width="32px" alt="Github">
 	</a>
+	<a href="https://www.twitch.tv/eliteasian123">
+		<img src="https://assets.twitch.tv/assets/favicon-32-e29e246c157142c94346.png" height="32px" width="32px" alt="Twitch">
+	</a>
  	<br/>
 	<br/>
 	<a href="https://ko-fi.com/C0C4T2VXB">
