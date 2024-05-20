@@ -12,10 +12,10 @@
 	<a href="https://www.twitch.tv/eliteasian123">
 		<img src="https://assets.twitch.tv/assets/favicon-32-e29e246c157142c94346.png" height="32px" width="32px" alt="Twitch">
 	</a>
- 	<br/>
+ 	<!--<br/>
 	<br/>
 	<a href="https://ko-fi.com/C0C4T2VXB">
 		<img src="https://ko-fi.com/img/githubbutton_sm.svg" width="175px" alt="Ko-fi">
-	</a>
+	</a>-->
 <div>
 <br/>
